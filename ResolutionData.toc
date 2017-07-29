@@ -5,7 +5,7 @@
 ## Version: 1.0
 ## LoadOnDemand: 1
 ## Dependencies: Resolution
-## SavedVariables: ResolutionDataCharacters
+## SavedVariables: ResolutionDataCharacters, ResolutionDataPlayed
 
 ## X-Curse-Project-ID: resolution
 ## X-GitHub-Repo: Kruithne/Resolution
